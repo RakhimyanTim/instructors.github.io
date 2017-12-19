@@ -1,10 +1,6 @@
 - link: /features/
-  name: Features
+  name: Особенности
 - link: /pricing/
-  name: Pricing
-- link: /blog/
-  name: Blog
-- link: https://learn.cloudcannon.com/
-  name: Guides
-- link: https://docs.cloudcannon.com/
-  name: Docs
+  name: Цены
+- link: /pullnfit.ru/blog/
+  name: Блог
